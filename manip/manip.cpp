@@ -5,14 +5,7 @@
  *      Author: keith
  */
 
-#include "manip.h"
+#include "../includes_usr/manip.h"
 
-manip::manip() {
-	// TODO Auto-generated constructor stub
-
-}
-
-manip::~manip() {
-	// TODO Auto-generated destructor stub
-}
+void manip(){};
 
