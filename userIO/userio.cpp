@@ -10,7 +10,7 @@
 using namespace std;
 namespace kp {
 	std::string input(const std::string &phrase) {
-		cout << phrase << endl;
+		output(phrase);
 		string input;
 		cin >> input;
 		return input;
