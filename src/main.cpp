@@ -9,14 +9,6 @@
 #include "../includes_usr/manip.h"
 #include "../includes_usr/constants.h"
 
-//int main() {
-////	1. Open default file or get src filename from user
-////	2. load filename
-////	3. encrypt filenamedata
-////	4. get dest filename to put manipulated data
-////	5. save to dest filename
-//}
-
 using namespace std;
 
 int main() {
