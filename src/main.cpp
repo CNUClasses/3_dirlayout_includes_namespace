@@ -47,9 +47,6 @@ int main() {
 	if (!write(filename, data)){
 		return COULDNOTOPENFILE;
 	}
-
-
-
 }
 
 
